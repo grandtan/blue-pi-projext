@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Roboto;
+  src: url('/fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Helvethaica;
+  font-display: swap;
+  src: url('/fonts/DB_Helvethaica_X.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: HelvethaicaBold;
+  src: url('/fonts/DB_Heavent_Bd.ttf') format('truetype');
+  font-weight: normal;
+  /* font-style: normal; */
+  /* font-display: swap; */
+}
+
+@font-face {
+  font-family: HelvethaicaItalic;
+  src: url('/fonts/DB_Heavent_Blk_Ext_It.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-Black.ttf');
+  font-weight: bold;
+}
